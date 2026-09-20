@@ -1,6 +1,8 @@
 from datetime import date
 from typing import Optional
+
 from pydantic import BaseModel
+
 
 class ExperienceSchema(BaseModel):
     company_name: str
@@ -29,10 +31,12 @@ class ResumeSchema(BaseModel):
     projects: list[ProjectSchema]
     education: Optional[EducationSchema] = None
 
+
 class MatchResultSchema(BaseModel):
     candidate_name: str
     final_score: float
     reason: str
+
 
 class JobDescriptionSchema(BaseModel):
     role: str

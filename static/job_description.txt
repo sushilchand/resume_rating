@@ -1,0 +1,23 @@
+Senior Software EngineerA US fintech scaling its India teamLocation: Remote (India)About the CompanyA US fintech is scaling its India team and has partnered with Flexiple to hire a senior software engineer to anchor its engineering team. You will own complex systems end to end and set the technical bar for the team around you. Flexiple is a managed marketplace that helps global companies build high-performing teams and GCCs in India.Role OverviewAs a Senior Software Engineer, you will design and build high-impact systems, lead technical decisions on your team, and mentor engineers earlier in their careers.Key ResponsibilitiesTechnical Ownership
+Design and build systems that are correct, scalable, and maintainable under real load
+Drive architecture and design decisions for your team's area of ownership
+Lead complex debugging efforts and production incident response
+Mentorship & Collaboration
+Review code and design docs, raising the technical bar across the team
+Mentor junior and mid-level engineers on design, testing, and delivery practices
+Partner with product and engineering leadership to scope and sequence roadmap work
+Ideal Candidate Profile
+5 to 10 years building and operating production systems at scale
+Strong system-design skills, including trade-offs around performance, reliability, and cost
+A track record of owning a system or service end to end, from design to on-call support
+Clear written and spoken English and a reliable remote-work setup
+Preferred Qualifications
+Experience mentoring engineers or leading a small technical workstream
+Exposure to regulated or high-availability environments (finance, banking, payments)
+Familiarity with distributed-systems patterns (queues, caching, sharding)
+What We Offer
+A senior software engineer seat at a US fintech's India team
+Remote-friendly, pan-India hiring with long-term placement
+Technical ownership of a system with real scale and real stakes
+One application considered for this and future matched roles
+Hiring ProcessHR Screening → Technical Assessment → Technical Round 1 → Technical Round 2 → Culture Fit
